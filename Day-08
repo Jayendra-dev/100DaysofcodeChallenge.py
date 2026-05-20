@@ -1,5 +1,6 @@
-a = int(input())
-b = int(input())
+# find lcm using while loop
+a = int(input("enter your first no. here:"))
+b = int(input("enter your second number here:"))
 
 max_num = max(a, b)
 
