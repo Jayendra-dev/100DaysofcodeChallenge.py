@@ -1,8 +1,8 @@
 ###  100DaysOfCodeChallenge
-My 100 days to   Master Python + DSA +Github +projects journey to become problem solver.Dailly Problems solutions.
+My 100 days to   Master Python+Github to become problem solver.Dailly Problems solutions.
 
 ### Goal:  SDE | MCA'28
-Daily solving 3+ Python + DSA problems. No breaks.
+Daily solving Python problems. No break.
 
 ### Day 5 - Topics Covered
 1. List Comprehension
