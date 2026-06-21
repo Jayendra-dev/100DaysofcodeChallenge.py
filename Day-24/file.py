@@ -1,0 +1,5 @@
+f=open("file.txt","w")
+f.write("hello python\n")
+f.write("file handling examlple")
+f.close()
+print("data written successfully")
